@@ -1,4 +1,4 @@
-# Heuristic Algorithms for the Traveling Salesman Problem (TSP)
+# Heuristic Algorithms for the Traveling Salesman Problem
 
 This repository provides clean and practical implementations of three well-known heuristic algorithms to approximate solutions for the **Traveling Salesman Problem (TSP)**:
 
